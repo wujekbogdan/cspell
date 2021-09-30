@@ -1,6 +1,6 @@
 {
   "name": "cspell-tools-samples",
-  "version": "5.8.0",
+  "version": "5.11.2",
   "description": "Sample files used during unit tests",
   "private": false,
   "scripts": {
