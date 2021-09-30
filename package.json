@@ -7,7 +7,7 @@
     "cspell-monorepo": "bin.js",
     "symlink": "build_tools/bin/symlink.js"
   },
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "lerna run build && lerna run prepare-cspell-action",
     "build-dev": "lerna run build-dev",
