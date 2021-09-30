@@ -1,5 +1,5 @@
 {
-  "name": "cspell-monorepo",
+  "name": "@wujekbogdan/cspell-monorepo",
   "version": "1.0.0",
   "description": "cspell monorepo.",
   "main": "bin.js",
@@ -49,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/streetsidesoftware/cspell.git"
+    "url": "git+https://github.com/wujekbogdan/cspell.git"
   },
   "keywords": [
     "spelling",
@@ -59,7 +59,7 @@
   "author": "Jason Dent",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/streetsidesoftware/cspell/issues"
+    "url": "https://github.com/wujekbogdan/cspell/issues"
   },
   "homepage": "https://streetsidesoftware.github.io/cspell/",
   "devDependencies": {
