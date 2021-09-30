@@ -98,5 +98,6 @@
     "micromatch": "^4.0.4",
     "minimatch": "^3.0.4",
     "rimraf": "^3.0.2"
-  }
+  },
+  "gitHead": "8d3f7b6d41209df7a7c18c4f2a53e6e21ecffeed"
 }

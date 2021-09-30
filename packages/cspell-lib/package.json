@@ -85,5 +85,6 @@
     "lorem-ipsum": "^2.0.3",
     "rimraf": "^3.0.2",
     "ts-jest": "^27.0.5"
-  }
+  },
+  "gitHead": "8d3f7b6d41209df7a7c18c4f2a53e6e21ecffeed"
 }

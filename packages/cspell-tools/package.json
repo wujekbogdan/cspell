@@ -68,5 +68,6 @@
     "rimraf": "^3.0.2",
     "shelljs": "^0.8.4"
   },
-  "main": "bin.js"
+  "main": "bin.js",
+  "gitHead": "8d3f7b6d41209df7a7c18c4f2a53e6e21ecffeed"
 }
