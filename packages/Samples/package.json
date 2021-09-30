@@ -2,7 +2,7 @@
   "name": "cspell-tools-samples",
   "version": "5.8.0",
   "description": "Sample files used during unit tests",
-  "private": true,
+  "private": false,
   "scripts": {
     "test": "echo \"No test specified\""
   },

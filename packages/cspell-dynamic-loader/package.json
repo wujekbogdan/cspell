@@ -1,6 +1,6 @@
 {
   "name": "@cspell/cspell-dynamic-loader",
-  "private": true,
+  "private": false,
   "publishConfig": {
     "access": "public"
   },
